@@ -1,2 +1,2 @@
-# JavaScript Review Project by BELLITA ENGEL B
+# JavaScript Review Project by Engel B. Bellita
 This project is a review of JavaScript concepts, from beginner to advanced.
